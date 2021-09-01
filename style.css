@@ -1,0 +1,11 @@
+ body{margin:0;
+       padding:0;
+       }
+		  
+      
+      
+      @media screen(max-width:960;){
+		  
+			  body{color:red;}
+		  }
+	  
